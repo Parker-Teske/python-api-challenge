@@ -1,11 +1,14 @@
-# Byte-compiled / optimized / DLL files
+# Adding config.py file.
+api_keys/py
+
+#Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
 *$py.class
 
 # C extensions
 *.so
-api_keys.py
+
 # Distribution / packaging
 .Python
 build/
